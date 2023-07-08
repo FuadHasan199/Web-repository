@@ -1,0 +1,13 @@
+.logo{
+    background-color: darkgray;
+}
+
+.menu-container{
+    display: flex;
+}
+.item{
+    list-style: none;
+}
+.menus{
+    display: flex;
+}
